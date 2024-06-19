@@ -1,0 +1,33 @@
+
+Renderer [line: 83] - renderTile(Tile, double, double)
+Renderer [line: 112] - getTileTypes(Tile)
+RendererTest [line: 37] - start(Stage)
+RendererTest [line: 40] - start(Stage)
+RendererTest [line: 41] - start(Stage)
+GameLevelLoader[line: 47] - loadLevel
+GameLevelLoader[line:60] - loadLevel
+GameLevelLoader[line:73] - loadLevel
+GameLevelLoader[lines 86 and 87] - loadLevel
+GameLevelLoader[lines 99 and 100] - loadLevel
+GameLevelLoader[line:109] - loadLevel
+GameLevelLoader[line:114] - loadLevel
+GameLevelLoader[line:119] - loadLevel
+GameLevelLoader[line:124] - loadLevel
+GameLevelLoader[line:131] - loadLevel
+GameStateManager[line:30] - updatePlayerPos
+GameStateManager[lines 36 and 37] - updatePlayerPos
+GameStateManager[line:64] - updateRemovedObject
+GameStateManager[lines 70-72] - updatePlayerPos
+GameStateManager[line:110] - updateExitLock
+Recorder[line:32] - app
+Recorder[line:52] - isRecording()
+Main[line:38] - map
+Main[line:39] - renderer
+Main[line:40] - recorder
+Main[line:42] - renderer
+Main[line:137] - TileObject
+Main[line:145] - getTile
+Main[line:152] - record
+
+
+
