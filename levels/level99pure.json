@@ -1,0 +1,37 @@
+{
+    "dimensions":{
+        "rows":13,
+        "columns":13
+    },
+    "walls":[
+        {"x1":1, "x2":1, "y1":1, "y2":1}
+        
+    ],
+    "treasures":[
+        {"x":2, "y":2}
+    ],
+    "locked_doors":[
+        {"x":3, "y":3, "colour":"red"}
+    ],
+    "keys":[
+        {"x":4, "y":4, "colour":"red"}
+    ],
+    "info_field":{"x":5, "y":5},
+    "chap":{"x":6, "y":6},
+    "exit_lock":{"x":7, "y":7},
+    "exit":{"x":8, "y":8},
+    "keys_in_inventory":0,
+    "treasures_in_inventory":0,
+    "boots":{"x":10, "y":10},
+    "player_has_boots":false,
+    "enemy":{"x":9, "y":9},
+    "fire":[
+        {"x":11, "y":11}
+    ],
+    "teleporter":[
+        {"x":7, "y":5},
+        {"x":3, "y":11}
+    ],
+    "time":60
+    
+}
